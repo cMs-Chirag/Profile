@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cMs-Chirag
+- 👋 Hi, I’m Chirag Sorathiya.
 - 👀 I’m interested in Cloud Computing (AWS and Azure), CI/CD Piplline, and Python.
 - 🌱 I’m currently doing research on security vulnerabilities in multi-tenantcy cloud platform.
 - 💞️ I’m looking to collaborate on Cloud Computing project.
