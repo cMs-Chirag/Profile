@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Chirag Sorathiya.
 - 👀 I’m interested in Cloud Computing (AWS and Azure), AI, Analytic, CI/CD Piplline, and Python.
-- 🌱 I’ve done research in security vulnerabilities in multi-tenantcy cloud environment.
+- 🌱 I’ve done research into security vulnerabilities in multi-tenantcy cloud environment.
 - 💞️ I’m looking for an opportunity to apply my knowledge and skills in real-world cloud project.
-- 📫 How to reach me chiragsorathiya022@outlook.com
+- 📫 How to reach me chiragsorathiya22@outlook.com
 
 <!---
 cMs-Chirag/cMs-Chirag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
