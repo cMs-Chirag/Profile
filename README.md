@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chirag Sorathiya.
-- 👀 I’m interested in Cloud Computing (AWS and Azure), AI, Analytics, CI/CD Piplline, and Python.
-- 🌱 I’ve done research into security vulnerabilities in multi-tenantcy cloud environment.
+- 👀 I’m interested in UI/UX Design and Web Design.
+- 🌱 I’ve done research into responsive web design and User Experience/ User interface Design.
 - 💞️ I’m looking for an opportunity to apply my knowledge and skills in real-world cloud project.
 - 📫 How to reach me sorathiyachirag250@gmail.com
 
