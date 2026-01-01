@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Chirag Sorathiya.
-- 👀 I’m interested in UI/UX Design and Web Design.
+- 👋 Hi, I’m Charlie S.
+- 👀 I’m interested in ServiceNow Administrator and Developer.
 - 🌱 I’ve done research into responsive web design and User Experience/ User interface Design.
 - 💞️ I’m looking for an opportunity to apply my knowledge and skills in real-world project.
 - 📫 How to reach me sorathiyachirag250@gmail.com
